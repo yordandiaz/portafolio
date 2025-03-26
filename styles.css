@@ -27,7 +27,7 @@ button {
 
 /* Fondo del header con imagen */
 header {
-    background-color: #808080;
+    background: url('https://source.unsplash.com/1600x900/?technology') center/cover;
     padding: 60px 20px;
     text-align: center;
     color: white;
