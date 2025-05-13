@@ -1,1 +1,14 @@
-hola
+/* Estilos personalizados */
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets/hero-image.jpg');
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+/* Responsive para móviles */
+@media (max-width: 768px) {
+    .hero-section h1 {
+        font-size: 2rem;
+    }
+}
