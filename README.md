@@ -20,4 +20,4 @@ Experiencia en despliegue de sitios con **Hostinger y WordPress**.
 - C# y .NET MAUI  
 
 ## 📫 **Contacto**  
-📧 yordan@ejemplo.com | 🌐 [GitHub](https://github.com/AlvarezCode) | 📸 [Instagram](https://instagram.com/AlvarezCode)  
+📧 diazalvarezyordan@gmail.com | 🌐 [GitHub](https://github.com/yordandiaz) | 📸 [Instagram](https://instagram.com/AlvarezCode)  
