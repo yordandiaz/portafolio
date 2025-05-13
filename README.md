@@ -1,23 +1,20 @@
-# 📄 Yordan Díaz (AlvarezCode) - Desarrollador Full Stack  
+# 🚀 Portafolio de Yordan Díaz (@AlvarezCode)  
 
-## 👨‍💻 **Perfil Profesional**  
-Desarrollador especializado en **creación de sitios web con HTML, CSS, JavaScript** y aplicaciones con **C# .NET y MAUI**.  
-Experiencia en despliegue de sitios con **Hostinger y WordPress**.  
+## 🌐 **Proyectos Web**  
+### [Landing Page para Restaurante](https://github.com/AlvarezCode/landing-restaurante)  
+✅ **Tecnologías:** HTML, CSS, JavaScript  
+✅ **Hosting:** Hostinger  
+📌 **Descripción:** Diseño responsive para un negocio local.  
 
-## 🛠 **Habilidades Técnicas**  
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend/Frameworks:** C#, .NET, MAUI  
-- **CMS & Hosting:** WordPress, Hostinger  
+### [Tienda WordPress](https://github.com/AlvarezCode/wordpress-ecommerce)  
+✅ **Tecnologías:** WordPress, WooCommerce  
+📌 **Descripción:** E-commerce con gestión de pedidos.  
 
-## 💼 **Experiencia**  
-**Desarrollador Freelance** (2022–Presente)  
-- Creación de landing pages y sitios web estáticos para clientes locales.  
-- Desarrollo de aplicaciones móviles con .NET MAUI.  
+## 📱 **Aplicaciones .NET MAUI**  
+### [App de Tareas Diarias](https://github.com/AlvarezCode/app-tareas-maui)  
+✅ **Tecnologías:** C#, .NET MAUI, SQLite  
+📌 **Descripción:** Organizador de tareas multiplataforma (iOS/Android).  
 
-## 📚 **Educación**  
-**Cursos Autodidactas** (Platzi, Udemy, Microsoft Learn)  
-- Desarrollo Web Full Stack  
-- C# y .NET MAUI  
-
-## 📫 **Contacto**  
-📧 diazalvarezyordan@gmail.com | 🌐 [GitHub](https://github.com/yordandiaz) | 📸 [Instagram](https://instagram.com/AlvarezCode)  
+---  
+📫 **¿Interesado en trabajar conmigo?**  
+👉 Contáctame en **diazalvarezyordan@gmail.com** o por [Instagram](https://instagram.com/AlvarezCode).  
